@@ -1,6 +1,6 @@
 # KeytopiaSwitcher
 
-KeytopiaSwitcher is an unnofficial hosts switcher for the PS Keytopia, with simple clicks between 2 buttons you can choose between playing normal GT or the PS, 
+KeytopiaSwitcher is an unofficial hosts switcher for the PS Keytopia, with simple clicks between 2 buttons you can choose between playing normal GT or the PS, 
 made in C#, the application is fast and has a small file size.
 
 KeytopiaSwitcher is made with the focus on being compatible with the Windows OS.
